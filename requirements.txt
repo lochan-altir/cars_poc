@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pydantic
+python-multipart
+ollama
+python-dotenv
+Pillow
+streamlit
